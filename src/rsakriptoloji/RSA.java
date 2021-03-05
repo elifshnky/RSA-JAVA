@@ -1,17 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package rsakriptolojibüt;
+
+package rsakriptoloji;
 
 import java.math.BigInteger;
 import java.util.Random;
 
-/**
- *
- * @author Pohenix
- */
+
 public class RSA {
     private final static BigInteger one=new BigInteger("1");
     private BigInteger p;
